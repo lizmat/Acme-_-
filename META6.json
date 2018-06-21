@@ -5,12 +5,12 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "send warnings with \u0ca0_\u0ca0",
+  "description" : "send warnings with ಠ_ಠ",
   "license" : "Artistic-2.0",
-  "name" : "Acme::\u0ca0_\u0ca0",
+  "name" : "Acme::ಠ_ಠ",
   "perl" : "6.c",
   "provides" : {
-    "Acme::\u0ca0_\u0ca0" : "lib/Acme/\u0ca0_\u0ca0.pm6"
+    "Acme::\u0ca0_\u0ca0" : "lib/Acme/ಠ_ಠ.pm6"
   },
   "resources" : [ ],
   "source-url" : "https://github.com/lizmat/Acme-_-.git",

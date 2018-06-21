@@ -5,7 +5,7 @@
   ],
   "build-depends" : [ ],
   "depends" : [ ],
-  "description" : "Acme::ಠ_ಠ - send warnings with ಠ_ಠ",
+  "description" : "send warnings with \u0ca0_\u0ca0",
   "license" : "Artistic-2.0",
   "name" : "Acme::\u0ca0_\u0ca0",
   "perl" : "6.c",
@@ -14,7 +14,10 @@
   },
   "resources" : [ ],
   "source-url" : "https://github.com/lizmat/Acme-_-.git",
-  "tags" : [ "CPAN5","ACME" ],
+  "tags" : [
+    "CPAN5",
+    "ACME"
+  ],
   "test-depends" : [ ],
   "version" : "0.0.1"
 }
